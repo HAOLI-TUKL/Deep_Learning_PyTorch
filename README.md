@@ -13,9 +13,10 @@ Mnist datasets are used for this task and a CNN network is trained. Mnist datase
 
 ## Style Transfer
 Style transfer combines the contain of an image and the style of another image together. For this task, 0, 5, 10, 19,28 layers of vgg19 are used for feature extractions. Keep in mind that no network is trained for this task but a target/combined image is trained. The key point for this task is how to define feature loss and content loss.
-the feature loss is defined as  
-<img src="https://github.com/HAOLI-TUKL/Deep_Learning_PyTorch/blob/master/images/style1.png" alt="none" width="500" height="313" align="bottom" />. 
-the content loss is defined as  
-<img src="https://github.com/HAOLI-TUKL/Deep_Learning_PyTorch/blob/master/images/style1.png" alt="none" width="500" height="313" align="bottom" />. 
+the feature loss is defined as   
+<img src="https://github.com/HAOLI-TUKL/Deep_Learning_PyTorch/blob/master/images/style1.png" alt="none" width="200" height="80" align="bottom" />.    
+
+the content loss is defined as   
+<img src="https://github.com/HAOLI-TUKL/Deep_Learning_PyTorch/blob/master/images/style1.png" alt="none" width="200" height="80" align="bottom" />. 
 
 
