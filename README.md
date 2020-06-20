@@ -22,5 +22,7 @@ the content loss is defined as
 The left image is a content image and the middle one is the style image while the right one is the combined one.  
 <img src="https://github.com/HAOLI-TUKL/Deep_Learning_PyTorch/blob/master/images/style3.png" alt="none" width="500" height="150" align="bottom" />. 
 
+## Generative Adversarial Network
+This network consists of a discriminator, which aims to discriminate real and fake images, and a generator, which aims to generate a fake image as real as possible. 
 
 
