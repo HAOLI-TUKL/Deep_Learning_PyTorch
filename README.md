@@ -25,4 +25,5 @@ The left image is a content image and the middle one is the style image while th
 ## Generative Adversarial Network
 This network consists of a discriminator, which aims to discriminate real and fake images, and a generator, which aims to generate a fake image as real as possible. 
 
+<img src="https://github.com/HAOLI-TUKL/Deep_Learning_PyTorch/blob/master/images/gan.png" alt="none" width="600" height="200" align="bottom" />. 
 
